@@ -1,0 +1,55 @@
+body{
+    background-color: rgba(176, 202, 250, 0.911);
+}
+
+#heading {
+    color: #001b35;
+    font-family: 'Georgia', serif;
+    font-size: 40px;
+    text-align: center;
+  }
+  
+
+  .subheading {
+    text-align: center;
+    font-family: 'Calibri', sans-serif;
+    font-size: 30px;
+    color: #003d46;
+    margin-bottom: 20px;
+  }
+  
+  .assignment-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .assignment-desc {
+    width: 80%;
+    font-size: 25px;
+    line-height: 1.6;
+    font-family: 'Garamond', serif;
+  }
+  
+  .image {
+    border: 3px solid #022942;
+    padding: 10px;
+    margin-left: 40px;
+    margin-right: 25px;
+    border-radius: 5px;
+  }
+  
+  .additional-info {
+    margin: 30px;
+    padding: 15px;
+    background-color: #ecf1f0;
+    border-left: 4px solid #025186;
+    font-family: 'Verdana', sans-serif;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 10px;
+  }
+  
